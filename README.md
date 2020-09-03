@@ -1,2 +1,2 @@
 # NYU-DevOps
-lectures for DevOps class
+Notes for DevOps class
