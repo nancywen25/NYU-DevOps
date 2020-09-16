@@ -1,0 +1,15 @@
+code --install-extension alexkrechik.cucumberautocomplete code --install-extension bbenoist.vagrant
+code --install-extension bierner.github-markdown-preview code --install-extension cstrap.flask-snippets
+code --install-extension DavidAnson.vscode-markdownlint code --install-extension donjayamanne.githistory
+code --install-extension fabianlauer.vs-code-xml-format code --install-extension GitHub.vscode-pull-request-github code --install-extension hbenl.vscode-test-explorer
+code --install-extension hnw.vscode-auto-open-markdown-preview code --install-extension humao.rest-client
+code --install-extension littlefoxteam.vscode-python-test-adapter code --install-extension mikestead.dotenv
+code --install-extension ms-python.python
+code --install-extension ms-vscode-remote.remote-containers code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension njpwerner.autodocstring
+code --install-extension redhat.vscode-yaml
+code --install-extension SonarSource.sonarlint-vscode
+code --install-extension VisualStudioExptTeam.vscodeintellicode code --install-extension vscoss.vscode-ansible
+code --install-extension wholroyd.jinja
+code --install-extension yzhang.markdown-all-in-one
