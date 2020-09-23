@@ -22,3 +22,5 @@ $ exit
 $ vagrant halt
 ```
  
+### Quick Concepts Reference
+https://github.com/nyu-devops/nyu-devops-concepts
